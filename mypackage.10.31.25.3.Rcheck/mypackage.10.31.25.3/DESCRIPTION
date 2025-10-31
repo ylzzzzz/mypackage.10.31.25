@@ -11,7 +11,11 @@ Authors@R: c(
   )
 Description: More about what it does (maybe more than one line).
     Continuation lines should be indented.
-License: GPL (>= 3)
+License: What license is it under?
 Encoding: UTF-8
-LazyData: true
 RoxygenNote: 7.3.3
+NeedsCompilation: no
+Packaged: 2025-10-31 20:37:57 UTC; yaleizhao
+Author: Jane Doe [aut, cre]
+Maintainer: Jane Doe <jane@example.com>
+Built: R 4.5.1; ; 2025-10-31 20:37:58 UTC; unix
